@@ -111,4 +111,3 @@ The Admin App connects to the Liquid Galaxy rig via **SSH**.
 
 ## 📝 License
 This project is open-source.
->>>>>>> 9ae75d8067a1d503e46ec47085c796d97bb45bd1
