@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # volunteer_app
 
 A new Flutter project.
